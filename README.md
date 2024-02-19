@@ -17,4 +17,4 @@ In this internship I was offered with 5 tasks respectively.So, I choose to start
 ## Task 1 - Calculator
 
 A Calculator created under the virtual internship program of Prodigy InfoTech.<br>
-[Click Here for Live Demo](https://MKL27.github.io/PRODIGY_AD_01/)
+[Click Here for Live Demo](https://mk47room.github.io/PRODIGY_AD_01/)
